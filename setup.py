@@ -22,7 +22,7 @@ setup(
     platforms='any',
     install_requires=[
         'Flask>=0.9',
-        'Flask-SQLAlchemy>=1.0',
+        'Flask-SQLAlchemy',
         'alembic>=0.6',
         'Flask-Script>=0.5.3'
     ],

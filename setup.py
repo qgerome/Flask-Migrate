@@ -24,7 +24,7 @@ setup(
         'Flask>=0.9',
         'Flask-SQLAlchemy>=1.0',
         'alembic>=0.6',
-        'Flask-Script>=0.6'
+        'Flask-Script>=0.5.3'
     ],
     test_suite = "tests",
     classifiers=[
